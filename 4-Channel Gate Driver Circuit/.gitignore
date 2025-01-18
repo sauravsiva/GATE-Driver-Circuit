@@ -1,3 +1,0 @@
-*fp-info-cache*   # Ignores fp-info-cache in any subdirectory
-*backups*      # Ignores backups directories in any subdirectory
-*Gerber*       # Ignores Gerber directories in any subdirectory

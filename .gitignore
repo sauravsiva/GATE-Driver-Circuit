@@ -1,0 +1,8 @@
+# Ignore all files named fp-info-cache in any directory
+**/fp-info-cache
+
+# Ignore all files with "backups" in their names
+**/*backups*
+
+# Ignore all files with "Gerber" in their names
+**/*Gerber*
